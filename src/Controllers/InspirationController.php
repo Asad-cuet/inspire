@@ -2,7 +2,7 @@
         namespace AsadCuet\Inspire\Controllers;
 
         use Illuminate\Http\Request;
-        use Fhsinchy\Inspire\Inspire;
+        use AsadCuet\Inspire\Inspire;
 
         class InspirationController
         {
