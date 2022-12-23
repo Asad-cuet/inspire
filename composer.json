@@ -15,7 +15,7 @@
             "email": "u1911022@student.cuet.ac.bd.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
         "php": ">=7.2",
