@@ -1,7 +1,9 @@
 {
     "name": "asad-cuet/inspire",
     "description": "this is a learning testing package",
-    "license": "''\u001b[DMIT'",
+    "license": "MIT",
+    "type": "library",
+    "keywords": ["inspire"],
     "autoload": {
         "psr-4": {
             "AsadCuet\\Inspire\\": "src/"
@@ -14,7 +16,11 @@
         }
     ],
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
+        "php": ">=7.2",
+        "asad-cuet/inspire": "dev-master",
         "guzzlehttp/guzzle": "^7.0.1"
+
     }
 }
